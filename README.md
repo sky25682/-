@@ -9,3 +9,10 @@
 ![Image](https://github.com/user-attachments/assets/3664453f-b1bb-4c7d-b843-2b86f9fcd483)
 
 
+apple_game.py
+구글 제미나이로 파싱하는데 생각보다 잘 되진 않는다. 3에 1번은 제대로 파싱하지 못한다.
+
+ocr.py 
+이거는 진짜 정확하다. 그러나 시간이 좀 걸린다. 
+시간 이슈로 이건 하다가 버렸다.. 그래서 이후의 코드가 없다..
+
